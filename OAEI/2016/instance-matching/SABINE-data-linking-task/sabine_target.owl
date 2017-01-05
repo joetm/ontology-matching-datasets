@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://islab.di.unimi.it/oaei2016/data_linking/sabine_target.owl#"
-     xml:base="http://islab.di.unimi.it/oaei2016/data_linking/sabine_target.owl"
+<rdf:RDF xmlns="https://raw.githubusercontent.com/joetm/ontology-matching-datasets/master/OAEI/2016/instance-matching/SABINE-data-linking-task/sabine_target.owl#"
+     xml:base="https://raw.githubusercontent.com/joetm/ontology-matching-datasets/master/OAEI/2016/instance-matching/SABINE-data-linking-task/sabine_target.owl"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
@@ -8,7 +8,7 @@
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:ontology="http://dbpedia.org/ontology/">
-    <owl:Ontology rdf:about="http://islab.di.unimi.it/oaei2016/data_linking/sabine_target.owl"/>
+    <owl:Ontology rdf:about="https://raw.githubusercontent.com/joetm/ontology-matching-datasets/master/OAEI/2016/instance-matching/SABINE-data-linking-task/sabine_target.owl"/>
     
 
 
